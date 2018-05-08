@@ -50,34 +50,3 @@
 
 <button type="button10" onclick="document.getElementById('player2').play()">Yes</button>
   
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- <style type="text/css">
-#button1 {
-  background-color: #bbb;
-  padding: .5em;
-  -moz-border-radius: 5px;
-  -webkit-border-radius: 5px;
-  border-radius: 6px;
-  color: #fff;
-  font-family: 'Oswald';
-  font-size: 20px;
-  text-decoration: none;
-  border: none;
-}
-
-#button1:hover {
-  border: none;
-  background: orange;
-  box-shadow: 0px 0px 1px #777;
-}
-</style>

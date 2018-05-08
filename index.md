@@ -1,6 +1,4 @@
 
-## Login to play sounds
-
 <html class="staticrypt-html">
 <head>
     <meta charset="utf-8">

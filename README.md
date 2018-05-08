@@ -1,7 +1,7 @@
 
 ## Sound Player
 
-<bold>Login to play sounds</bold>
+Login to play sounds
 
 
 <meta name="viewport" content="width=device-width, initial-scale=1">
